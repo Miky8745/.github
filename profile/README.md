@@ -46,7 +46,7 @@ This text was made from the contents of [my website](https://mikulas.vanecek.inf
 
 ## 🌌 Other Interests  
 🔭 Astronomy • 🎮 Gaming & Game Dev • 🏸 Badminton  
-🛠️ Electronics & Microcomputers • 🛡️ Cybersecurity • 🎹 Piano & Music
+🛠️ Electronics & Microcomputers • 🛡️ Cybersecurity • 🎹 Piano & Music   
 🧪 Chemistry & Physics • 🥽 VR & AR • 🧠 Brain-Computer Interfaces  
 
 ---
