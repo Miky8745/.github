@@ -54,12 +54,3 @@ This text was made from the contents of [my website](https://mikulas.vanecek.inf
 ## 📬 Contact  
 - 📧 Email: [mikulas.vanecek@gmail.com](mailto:mikulas.vanecek@gmail.com)  
 - 💬 Discord: **miky8745**  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miky8745&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miky8745&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
